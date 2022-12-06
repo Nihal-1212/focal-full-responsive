@@ -1,0 +1,271 @@
+/*---/---/----/---/--/----/-****** xxx - l ******-/---/----/----/---/----/----/----*/
+@media (min-width:2560px){
+    #portfolio .img .overlay {
+        right: 60px;
+    }
+}
+/*---/---/----/---/--/----/-****** xx - l ******-/---/----/----/---/----/----/----*/
+@media (min-width:1400px) and (max-width:2559.99px){
+    #about .about-items{
+        margin-left: 400px;
+    }
+    #portfolio .img .overlay {
+        right: 60px;
+    }
+}
+/*---/---/----/---/--/----/-****** x - l ******-/---/----/----/---/----/----/----*/
+@media (min-width:1200px) and (max-width:1399.99px){
+        #about{
+            padding-left: 50px;
+        }
+        #my_skill .table {
+            padding-left: 35px;
+        }
+        #my_skill .table .box {
+            width: 520px;
+        }
+}
+/*---/---/----/---/--/----/-****** large ******-/---/----/----/---/----/----/----*/
+@media (min-width:992px) and (max-width:1199.99px){
+    #nav ul li a {
+        padding: 30px 8px;
+    }
+    #banner .banner_contant h1 {
+        font-size: 55px;
+    }
+    #banner {
+        height: 920px;
+    }
+    #about .about-items{
+        margin-left: 100px;
+    }
+    #my_skill .table {
+        padding-left: 0px;
+    }
+    #my_skill .table .box {
+        width: 460px;
+    }
+    #portfolio img {
+        padding: 10px 0px;
+    }
+    #portfolio .img .overlay {
+        top: 9px;
+        bottom: 11px;
+        left: 12px;
+        right: -13px;
+    }
+}
+/*---/---/----/---/--/----/-****** medium ******-/---/----/----/---/----/----/----*/
+@media (min-width:768px) and (max-width:991.99px){
+    #nav ul li:hover a {
+        transform: scale(1.1);
+    }
+    #banner {
+        height: 800px;
+    }
+    #banner .banner_contant h1 {
+        font-size: 55px;
+    }
+    #taxt-box {
+	margin-top: 35px;
+	margin-bottom: 65px;
+    text-align: center;
+    justify-content: center;
+    }
+    #taxt-box .taxt_item{
+        padding-top: 30px;
+    }
+    #taxt-box .taxt_item h3 {
+        padding-bottom: 15px;
+    }
+    #about {
+        background: #f2f2f1;
+        text-align: center;
+        justify-content: center;
+    }
+    #my_skill{
+        text-align: center;
+        justify-content: center;
+    }
+    #my_skill .table {
+        padding-top: 60px;
+    }
+    #education {
+        margin-top: 55px;
+        padding-bottom: 55px;
+        text-align: center;
+        justify-content: center;
+    }
+    #education .result {
+        padding-top: 60px;
+    }
+    #experience {
+        margin: 60px 0 60px;
+        text-align: center;
+        justify-content: center;
+    }
+    #experience .experience_info {
+        padding-top: 60px;
+    }
+    #bottom_foot {
+        text-align: center;
+        justify-content: center;
+    }
+}
+/*---/---/----/---/--/----/-****** small ******-/---/----/----/---/----/----/----*/
+@media (min-width:576px) and (max-width:767.99px){
+    #nav ul li:hover a {
+        transform: scale(1.1);
+    }
+    #banner {
+        height: 750px;
+    }
+    #banner .banner_contant h1 {
+        font-size: 41px;
+    }
+    #taxt-box {
+        margin-top: 10px;
+        margin-bottom: 40px;
+        text-align: center;
+        justify-content: center;
+        }
+        #taxt-box .taxt_item{
+            padding-top: 30px;
+        }
+        #taxt-box .taxt_item h3 {
+            padding-bottom: 15px;
+        }
+        #about {
+            background: #f2f2f1;
+            text-align: center;
+            justify-content: center;
+        }
+        #about .logo_text_info{
+                    padding-left: 50px;
+                    padding-right: 50px;
+        }
+        #my_skill{
+            text-align: center;
+            justify-content: center;
+        }
+        #my_skill .table {
+            padding-top: 60px;
+        }
+        #my_skill .table {
+            padding-left: 0;
+        }
+        #my_skill .table .box {
+            width: 517px;
+        }
+        #education {
+            margin-top: 55px;
+            padding-bottom: 55px;
+            text-align: center;
+            justify-content: center;
+        }
+        #education .result {
+            padding-top: 60px;
+            padding-left: 0;
+        }
+        #experience {
+            margin: 60px 0 60px;
+            text-align: center;
+            justify-content: center;
+        }
+        #experience .experience_info {
+            padding-top: 60px;
+            padding-left: 0;
+        }
+        #portfolio .port-img {
+            padding-left: 55px;
+        }
+        #portfolio .img .overlay {
+            right: 45px;
+        }
+        #bottom_foot {
+            text-align: center;
+            justify-content: center;
+        }
+}
+/*---/---/----/---/--/----/-****** extra-small ******-/---/----/----/---/----/----/----*/
+@media (max-width:575.99px){
+    #nav ul li:hover a {
+        transform: scale(1.1);
+    }
+    #banner {
+        height: 500px;
+    }
+    #banner .banner_contant h1 {
+        font-size: 37px;
+    }
+    #banner .banner_contant a {
+        font-size: 14px;
+        padding: 13px 28px;
+    }
+    #taxt-box {
+        margin-top: 10px;
+        margin-bottom: 40px;
+        text-align: center;
+        justify-content: center;
+        }
+        #taxt-box .taxt_item{
+            padding-top: 30px;
+        }
+        #taxt-box .taxt_item h3 {
+            padding-bottom: 15px;
+        }
+        #about {
+            background: #f2f2f1;
+            text-align: center;
+            justify-content: center;
+        }
+        #about .heading_info {
+            padding-top: 34px;
+            margin-bottom: 2px;
+        }
+        #my_skill{
+            text-align: center;
+            justify-content: center;
+        }
+        #my_skill {
+            margin: 30px 0 30px;
+            color: #919191;
+        }
+        #my_skill .table {
+            padding-top: 60px;
+        }
+        #my_skill .table {
+            padding-left: 0;
+        }
+        #my_skill .table .box {
+            width: 293px;
+        }
+        #education {
+            margin-top: 55px;
+            padding-bottom: 55px;
+            text-align: center;
+            justify-content: center;
+        }
+        #education .result {
+            padding-top: 60px;
+            padding-left: 0;
+        }
+        #experience {
+            margin: 60px 0 60px;
+            text-align: center;
+            justify-content: center;
+        }
+        #experience .experience_info {
+            padding-top: 60px;
+            padding-left: 0;
+        }
+        #portfolio .port-img{
+            padding-left: 0;
+        }
+        #footer .foot_icon ul li{
+            margin-right: 9px;
+    }
+    #footer .foot_icon{
+        padding-left: 10px;
+}
+}
